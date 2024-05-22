@@ -83,9 +83,9 @@ const researcherExperience = [
 
     },
     {
-        title: "NSIN - Machine Learning Researcher",
+        title: "National Security Innovation Network - Machine Learning Researcher",
         period: "January 2022 - May 2023",
-        description: "Researched image classifiers that can determine the state of the exterior hull of a ship, and manage protocols of a ship increasing a crew's productivity and safety when in dangerous environments.",
+        description: "Researched image classifiers that can determine the state of the exterior hull of a ship, and manage protocols of a ship increasing a crew's productivity and safety when in dangerous environments. This research was conducted as a partnership between Arizona State University and the United States Department of Defense",
     },
     {
         title: "ASU - Student Researcher",
