@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/samarthdev-website/static/css/main.b5e9e5ba.css",
+    "main.js": "/samarthdev-website/static/js/main.7f24075e.js",
+    "static/media/sdevCropped.jpg": "/samarthdev-website/static/media/sdevCropped.fbc94871ab13bf0093ac.jpg",
+    "index.html": "/samarthdev-website/index.html",
+    "main.b5e9e5ba.css.map": "/samarthdev-website/static/css/main.b5e9e5ba.css.map",
+    "main.7f24075e.js.map": "/samarthdev-website/static/js/main.7f24075e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b5e9e5ba.css",
+    "static/js/main.7f24075e.js"
+  ]
+}
